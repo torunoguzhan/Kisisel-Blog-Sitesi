@@ -1,0 +1,31 @@
+@media(max-width:576px )
+{
+	.iletisimduzenle
+	{
+		width: 190px !important;
+	}
+
+	.iletisimtextduzenle
+	{
+		width: 300px !important;
+	}
+	.hakkindafotoduzenle
+	{
+		width: 180px !important;
+	}
+	.hakkindatextduzenle
+	{
+		margin-top: 200px !important;
+		margin-left: -180px !important;
+	}
+	.baslikduzenle
+	{
+		margin-top: 150px;
+		margin-left: -180px;
+	}
+	
+
+
+
+
+}
